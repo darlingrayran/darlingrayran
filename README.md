@@ -1,16 +1,27 @@
-### Hi there 👋
+# Desarrolladora Web Full Stack 💻 😄
 
-<!--
-**darlingrayran/darlingrayran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy Darling Rayran, una mujer entusiasta por el desarrollado web  y la ingenieria ambiental con conocimientos en la creación de aplicaciones web atractivas y funcionales. Mi enfoque se centra en el desarrollo Full Stack, trabajando tanto en el frontend como en el backend para ofrecer soluciones completas.
 
-Here are some ideas to get you started:
+## Tecnologías que domino:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬  Frontend: HTML, CSS, JavaScript (React.js, Vue.js)
+💬  Backend: Node.js, Express
+💬  Bases de datos: MongoDB, MySQL
+💬  Herramientas de control de versiones: GitHub
+
+## Proyectos destacados:
+
+- 🚀 Lo siento, en este momento me encuentro en el proceso de mantenimiento y publicación del contenido 🤔
+
+## Colaboración y aprendizaje:
+
+Estoy siempre buscando oportunidades para colaborar en proyectos emocionantes y aprender nuevas tecnologías. ¡Hagamos cosas increíbles juntos!
+
+## Contacto:
+
+- 📧 Correo electrónico: darlingrayran@hotmail.com
+- 🔗 LinkedIn: [darlingrayran](https://www.linkedin.com/in/darlingrayran)
+- 🐦 Twitter: [@darling_rayran](https://twitter.com/darling_rayran)
+
+¡Gracias por visitar mi perfil! 😊
+
