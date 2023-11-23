@@ -4,18 +4,19 @@
 
 ## Tecnologías que domino:
 
-💬  Frontend: HTML, CSS, JavaScript (React.js, Vue.js)
-💬  Backend: Node.js, Express
-💬  Bases de datos: MongoDB, MySQL
-💬  Herramientas de control de versiones: GitHub
+
+</>  Frontend: HTML, CSS, JavaScript (React.js, Vue.js)
+</>  Backend: Node.js, Express
+</>  Bases de datos: MongoDB, MySQL
+</>  Herramientas de control de versiones: GitHub
 
 ## Proyectos destacados:
 
-- 🚀 Lo siento, en este momento me encuentro en el proceso de mantenimiento y publicación del contenido 🤔
+- 🌐 Lo siento, en este momento me encuentro en el proceso de mantenimiento y publicación del contenido 🚀
 
 ## Colaboración y aprendizaje:
 
-Estoy siempre buscando oportunidades para colaborar en proyectos emocionantes y aprender nuevas tecnologías. ¡Hagamos cosas increíbles juntos!
+Estoy siempre buscando oportunidades para colaborar en proyectos emocionantes y aprender nuevas tecnologías. ¡Hagamos cosas increíbles juntos! 🚀
 
 ## Contacto:
 
