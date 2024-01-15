@@ -10,9 +10,12 @@
 </>  Bases de datos: MongoDB, MySQL
 </>  Herramientas de control de versiones: GitHub
 
-## Proyectos destacados:
+## Proyectos destacados desarrollados en colaboración:
 
-- 🌐 Lo siento, en este momento me encuentro en el proceso de mantenimiento y publicación del contenido 🚀
+- Family Adams - Web Cards: https://github.com/darlingrayran/FamilyAdams-Web.git
+
+## Proyectos destacados propios:
+- 🌐 En este momento me encuentro en el proceso de mantenimiento y publicación del contenido 🚀
 
 ## Colaboración y aprendizaje:
 
