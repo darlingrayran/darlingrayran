@@ -11,11 +11,8 @@
 </>  Herramientas de control de versiones: GitHub
 
 ## Pagina Web - Portfolio:
-- 🌐 En este momento me encuentro en el proceso de mantenimiento y publicación del contenido 🚀
+- 🌐 Aqui encuentras el enlace a mi proyecto creado con React.JS https://darlingrayran.github.io/portfolioDarlingRayran/ 🚀
 
-## Proyectos destacados desarrollados en colaboración:
-
-- Family Adams - Web Cards: https://github.com/darlingrayran/FamilyAdams-Web.git
 
 ## Colaboración y aprendizaje:
 
