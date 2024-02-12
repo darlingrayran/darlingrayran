@@ -16,7 +16,14 @@
 
 ## Colaboración y aprendizaje:
 
-Estoy siempre buscando oportunidades para colaborar en proyectos emocionantes y aprender nuevas tecnologías. ¡Hagamos cosas increíbles juntos! 🚀
+En este momento, estoy:
+
+- Mejorando mi nivel de Ingles
+- Desarrollando mi portfolio web
+- Acentuando conceptos de programación
+- Estudiando SQl
+
+Ademas, estoy buscando oportunidades para colaborar en proyectos emocionantes y aprender nuevas tecnologías. ¡Hagamos cosas increíbles juntos! 🚀
 
 ## Contacto:
 
